@@ -1,0 +1,33 @@
+{
+  "name": "han-burnout-society",
+  "display_name": "倦怠社会",
+  "author": "韩炳哲",
+  "translator": "王一力",
+  "version": "2.0.0",
+  "description": "基于韩炳哲《倦怠社会》的结构化知识库。覆盖范式转移、功绩社会、自我剥削、深度无聊、根本性倦怠、神圣时间等核心概念。",
+  "type": "knowledge-base",
+  "domain": "cultural_theory",
+  "framework_coords": {
+    "domain": "cultural_theory",
+    "method": "社会病理学诊断",
+    "granularity": "paradigm→concept→diagnosis→vision",
+    "rigidity": "descriptive",
+    "generality": "medium"
+  },
+  "dependencies": {
+    "close-reading-protocol": ">=1.0.0"
+  },
+  "tags": [
+    "social_pathology",
+    "cultural_critique",
+    "contemporary_philosophy",
+    "leftist_theory",
+    "burnout_society"
+  ],
+  "kb_stats": {
+    "total_entries": 38,
+    "chapter_coverage": "9章",
+    "deep_docs": 5,
+    "last_updated": "2026-06-17"
+  }
+}

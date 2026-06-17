@@ -1,0 +1,40 @@
+{
+  "name": "zizek-looking-awry",
+  "display_name": "斜目而视：透过通俗文化看拉康",
+  "author": "斯拉沃热·齐泽克（Slavoj Žižek）",
+  "translator": "季广茂",
+  "edition": "浙江大学出版社，齐泽克作品系列",
+  "version": "1.0.0",
+  "description": "基于齐泽克《斜目而视：透过通俗文化看拉康》的结构化知识库。提供10个可迁移的文化分析范式，覆盖希区柯克分析、口唇/肛门/阳物三阶段、活死人的回归、作为客体的凝视/声音等核心概念。左翼理论星图组件。",
+  "type": "knowledge-base",
+  "domain": "cultural_theory",
+  "framework_coords": {
+    "domain": "cultural_theory",
+    "method": "斜目而视法——通过文化文本的形式结构展示理论概念",
+    "granularity": "形式特征 -> 力比多逻辑 -> 理论结构",
+    "rigidity": "descriptive",
+    "generality": "broad"
+  },
+  "dependencies": {
+    "close-reading-protocol": ">=1.0.0"
+  },
+  "tags": [
+    "leftist_theory",
+    "cultural_theory",
+    "film_analysis",
+    "literary_criticism",
+    "lacanian_psychoanalysis",
+    "popular_culture",
+    "analytical_framework",
+    "zizek"
+  ],
+  "project": "leftist-theory-star-map",
+  "project_component": "zizek-looking-awry",
+  "kb_stats": {
+    "total_entries": 10,
+    "chapter_coverage": "中文版前言+9章（全书全部覆盖）",
+    "deep_docs": 3,
+    "analytical_paradigms": 10,
+    "last_updated": "2026-06-17"
+  }
+}

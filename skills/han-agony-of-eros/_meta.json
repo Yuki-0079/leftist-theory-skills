@@ -1,0 +1,34 @@
+{
+  "name": "han-agony-of-eros",
+  "display_name": "爱欲之死",
+  "author": "韩炳哲",
+  "translator": "宋娀",
+  "edition": "中信出版社，2019",
+  "version": "2.0.0",
+  "description": "基于韩炳哲《爱欲之死》的结构化知识库。覆盖爱情危机诊断、他者消失理论、功绩社会批判、爱欲哲学四个维度，适合对当代社会爱情文化、精神病理和理论危机进行文化分析和批判。",
+  "type": "knowledge-base",
+  "domain": "cultural_theory",
+  "framework_coords": {
+    "domain": "cultural_theory",
+    "method": "社会病理学诊断 + 哲学文本解读",
+    "granularity": "concept→proposition→diagnosis→social critique",
+    "rigidity": "descriptive",
+    "generality": "medium"
+  },
+  "dependencies": {
+    "close-reading-protocol": ">=1.0.0"
+  },
+  "tags": [
+    "social_pathology",
+    "cultural_critique",
+    "contemporary_philosophy",
+    "leftist_theory",
+    "love_and_eros"
+  ],
+  "kb_stats": {
+    "total_entries": 35,
+    "chapter_coverage": "8章（序+7章）",
+    "deep_docs": 5,
+    "last_updated": "2026-06-17"
+  }
+}

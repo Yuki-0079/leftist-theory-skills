@@ -1,0 +1,47 @@
+{
+  "name": "leftist-theory-star-map",
+  "display_name": "左翼理论星图",
+  "version": "1.0.0",
+  "description": "左翼理论综合分析主skill。整合14个核心左翼理论组件（资本论三卷、德意志意识形态、西方马克思主义、齐泽克三部曲、上野千鹤子、费舍、德里达、亨廷顿、帕舒卡尼斯、张一兵等），提供经济基础→政治制度→文化意识形态三层联动的分析框架。",
+  "type": "master-skill",
+  "domain": "mixed_theory",
+  "framework_coords": {
+    "domain": "mixed_theory",
+    "method": "多层联动分析（经济基础→政治制度→文化意识形态）",
+    "granularity": "概念→框架→层次→总体",
+    "rigidity": "dialectical",
+    "generality": "broad"
+  },
+  "dependencies": {
+    "close-reading-protocol": ">=1.0.0",
+    "das-kapital-knowledge-base": ">=1.0.0",
+    "das-kapital-band-2": ">=1.0.0",
+    "das-kapital-band-3": ">=1.0.0",
+    "political-order-huntington": ">=1.0.0",
+    "capitalist-realism": ">=1.0.0",
+    "western-marxism": ">=1.0.0",
+    "patriarchy-capitalism": ">=1.0.0",
+    "deutsche-ideologie": ">=1.0.0",
+    "derrida-spectres": ">=1.0.0",
+    "zhaoliang-shijie": ">=1.0.0",
+    "zizek-sublime-object": ">=1.0.0",
+    "zizek-looking-awry": ">=1.0.0",
+    "zizek-enjoy-symptom": ">=1.0.0"
+  },
+  "tags": [
+    "leftist_theory",
+    "marxism",
+    "political_economy",
+    "cultural_theory",
+    "political_theory",
+    "ideology_critique",
+    "master_skill"
+  ],
+  "project": "leftist-theory-star-map",
+  "kb_stats": {
+    "core_components": 14,
+    "core_entries": "~452+",
+    "cross_cutting_docs": 2,
+    "last_updated": "2026-06-17"
+  }
+}

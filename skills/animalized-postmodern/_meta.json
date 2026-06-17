@@ -1,0 +1,39 @@
+{
+  "name": "animalized-postmodern",
+  "display_name": "动物化的后现代",
+  "author": "东浩纪（Azuma Hiroki）",
+  "translator": "褚炫初",
+  "edition": "中文版（台湾译本）",
+  "version": "1.0.0",
+  "description": "基于东浩纪《动物化的后现代》的结构化知识库——以御宅族系文化为案例的后现代文化分析，覆盖数据库消费、动物化、超平面性等核心概念",
+  "type": "knowledge-base",
+  "domain": "cultural_theory",
+  "framework_coords": {
+    "domain": "cultural_theory",
+    "method": "后现代文化分析（postmodern cultural analysis）",
+    "granularity": "concept→cultural phenomenon→social structure→historical epoch",
+    "rigidity": "descriptive",
+    "generality": "medium"
+  },
+  "dependencies": {
+    "close-reading-protocol": ">=1.0.0"
+  },
+  "tags": [
+    "japanese_culture",
+    "postmodern_theory",
+    "subculture",
+    "otaku_studies",
+    "cultural_theory",
+    "media_studies",
+    "consumer_society",
+    "leftist_theory"
+  ],
+  "kb_stats": {
+    "total_entries": 18,
+    "chapter_coverage": "全三章 + 谢辞/参考文献",
+    "deep_docs": 3,
+    "last_updated": "2026-06-16"
+  },
+  "project": "leftist-theory-star-map",
+  "project_component": "animalized-postmodern"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "zizek-enjoy-symptom",
+  "display_name": "享受你的症状！好莱坞内外的拉康",
+  "author": "斯拉沃热·齐泽克（Slavoj Žižek）",
+  "translator": "尉光吉",
+  "edition": "南京大学出版社，2014",
+  "version": "1.0.0",
+  "description": "基于齐泽克《享受你的症状！好莱坞内外的拉康》的结构化知识库。覆盖行动作为实在界的回答、两个父亲、三界电影分析等核心概念。左翼理论星图组件。",
+  "type": "knowledge-base",
+  "domain": "cultural_theory",
+  "framework_coords": {
+    "domain": "cultural_theory",
+    "method": "拉康式电影/文化分析——区分象征性姿态与真正的行动",
+    "granularity": "三界（想象/象征/实在）交互分析",
+    "rigidity": "dialectical",
+    "generality": "broad"
+  },
+  "tags": ["leftist_theory", "cultural_theory", "film_analysis", "lacanian_psychoanalysis", "hollywood", "zizek"],
+  "project": "leftist-theory-star-map",
+  "project_component": "zizek-enjoy-symptom",
+  "kb_stats": {"total_entries": 8, "deep_docs": 2, "last_updated": "2026-06-17"}
+}

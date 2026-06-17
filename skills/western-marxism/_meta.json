@@ -1,0 +1,25 @@
+{
+  "name": "western-marxism",
+  "display_name": "国外马克思主义哲学流派新编（西方马克思主义卷）",
+  "author": "俞吾金、陈学明",
+  "version": "1.0.0",
+  "description": "「左翼理论星图」组件6/10。系统教材覆盖西方马克思主义十个学派。",
+  "type": "knowledge-base",
+  "domain": "cultural_theory",
+  "project": "leftist-theory-star-map",
+  "project_component": "western-marxism",
+  "tags": [
+    "leftist_theory",
+    "western_marxism",
+    "critical_theory",
+    "frankfurt_school",
+    "structuralism",
+    "post_marxism"
+  ],
+  "kb_stats": {
+    "total_entries": 10,
+    "chapter_coverage": "10章全",
+    "deep_docs": 3,
+    "last_updated": "2026-06-16"
+  }
+}

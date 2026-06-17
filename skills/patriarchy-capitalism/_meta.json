@@ -1,0 +1,38 @@
+{
+  "name": "patriarchy-capitalism",
+  "display_name": "父权制与资本主义",
+  "author": "上野千鹤子",
+  "translator": "邹韵, 薛梅",
+  "edition": "中文版（2019年序言）",
+  "version": "1.0.0",
+  "description": "基于上野千鹤子《父权制与资本主义》的结构化知识库——马克思主义女权主义的二元论分析框架，覆盖再生产劳动、父权制资本主义的历史分析、经济批判等核心主题",
+  "type": "knowledge-base",
+  "domain": "cultural_theory",
+  "framework_coords": {
+    "domain": "cultural_theory",
+    "method": "唯物论的女权主义分析（materialist feminist analysis）",
+    "granularity": "concept→category→structure→historical tendency",
+    "rigidity": "dialectical",
+    "generality": "medium"
+  },
+  "dependencies": {
+    "close-reading-protocol": ">=1.0.0"
+  },
+  "tags": [
+    "feminist_theory",
+    "cultural_theory",
+    "marxist_feminism",
+    "reproductive_labor",
+    "gender_studies",
+    "political_economy",
+    "leftist_theory"
+  ],
+  "kb_stats": {
+    "total_entries": 55,
+    "chapter_coverage": "中文版序言+13章+补论+附论（全书16单元）",
+    "deep_docs": 5,
+    "last_updated": "2026-06-16"
+  },
+  "project": "leftist-theory-star-map",
+  "project_component": "patriarchy-capitalism"
+}

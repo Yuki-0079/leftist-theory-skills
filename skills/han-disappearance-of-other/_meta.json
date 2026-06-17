@@ -1,0 +1,13 @@
+{
+  "name": "han-disappearance-of-other",
+  "display_name": "他者的消失",
+  "author": "韩炳哲",
+  "translator": "吴琼",
+  "version": "2.0.0",
+  "description": "基于韩炳哲《他者的消失》的结构化知识库。覆盖同质化的恐怖、真实性批判、恐惧、目光、倾听伦理学等核心概念。",
+  "type": "knowledge-base",
+  "domain": "cultural_theory",
+  "dependencies": {"close-reading-protocol": ">=1.0.0"},
+  "tags": ["social_pathology", "cultural_critique", "contemporary_philosophy", "leftist_theory"],
+  "kb_stats": {"total_entries": 45, "chapter_coverage": "9章", "deep_docs": 5, "last_updated": "2026-06-17"}
+}

@@ -1,0 +1,13 @@
+{
+  "name": "pashukanis-legal-theory",
+  "display_name": "法的一般理论与马克思主义",
+  "author": "帕舒卡尼斯",
+  "translator": "姚远",
+  "version": "2.0.0",
+  "description": "基于帕舒卡尼斯《法的一般理论与马克思主义》的结构化知识库。覆盖商品形式与法律形式、法律主体、法律拜物教、法的消亡等核心概念。",
+  "type": "knowledge-base",
+  "domain": "political_theory",
+  "dependencies": {"close-reading-protocol": ">=1.0.0"},
+  "tags": ["legal_theory", "marxism", "political_economy", "leftist_theory"],
+  "kb_stats": {"total_entries": 25, "chapter_coverage": "8章", "deep_docs": 5, "last_updated": "2026-06-17"}
+}

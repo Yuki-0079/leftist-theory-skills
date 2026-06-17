@@ -1,0 +1,44 @@
+{
+  "name": "derrida-spectres",
+  "display_name": "马克思的幽灵（雅克·德里达）",
+  "type": "knowledge-base",
+  "version": "1.0.0",
+  "author": "leftism-project",
+  "source_text": "C:\\Opencode\\leftism\\books\\texts\\derrida-spectres\\combined.txt",
+  "source_format": "OCR text (537KB)",
+  "original_title": "Spectres de Marx",
+  "original_author": "Jacques Derrida",
+  "original_publication": "Galilée, 1993",
+  "chinese_publication": "中国人民大学出版社, 2016, 何一译",
+  "total_pages_in_scan": "~200 pages",
+  "core_concepts_count": 15,
+  "knowledge_entries_count": 20,
+  "deep_analyses_count": 4,
+  "key_themes": [
+    "hauntology",
+    "messianicity without messianism",
+    "conjuration",
+    "spectrality of commodity",
+    "critique of Fukuyama's end of history",
+    "inheritance of Marx",
+    "New International",
+    "justice vs law",
+    "time out of joint",
+    "mourning and debt"
+  ],
+  "related_skills": [
+    "western-marxism",
+    "capitalist-realism",
+    "das-kapital-band-2",
+    "das-kapital-band-3"
+  ],
+  "wip": false,
+  "last_updated": "2026-06-17",
+  "file_structure": {
+    "overview.json": "全书总览和结构",
+    "knowledge-base.json": "20条知识条目（dm-001至dm-020）",
+    "references/deep/": "4篇深度分析文档",
+    "SKILL.md": "知识库入口和索引",
+    "_meta.json": "元数据"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "name": "zizek-sublime-object",
+  "display_name": "意识形态的崇高客体",
+  "author": "斯拉沃热·齐泽克（Slavoj Žižek）",
+  "translator": "季广茂",
+  "edition": "中央编译出版社，修订版，2014",
+  "version": "1.0.0",
+  "description": "基于齐泽克《意识形态的崇高客体》的结构化知识库。覆盖征兆/征候、意识形态幻象、狗智主义、缝合点、崇高客体等核心概念。适合对意识形态理论、文化批判、拉康式精神分析进行理论分析和批评实践。左翼理论星图组件。",
+  "type": "knowledge-base",
+  "domain": "cultural_theory",
+  "framework_coords": {
+    "domain": "cultural_theory",
+    "method": "Lacanian psychoanalysis + Hegelian dialectics + Marxist ideology critique",
+    "granularity": "concept -> symptom -> structure -> totality",
+    "rigidity": "dialectical",
+    "generality": "broad"
+  },
+  "dependencies": {
+    "close-reading-protocol": ">=1.0.0"
+  },
+  "tags": [
+    "leftist_theory",
+    "cultural_theory",
+    "ideology_critique",
+    "lacanian_psychoanalysis",
+    "zizek",
+    "hegel",
+    "marxism",
+    "post_marxism"
+  ],
+  "project": "leftist-theory-star-map",
+  "project_component": "zizek-sublime-object",
+  "kb_stats": {
+    "total_entries": 41,
+    "chapter_coverage": "序言+引论+三部分+附录（全书10章全部覆盖）",
+    "deep_docs": 5,
+    "last_updated": "2026-06-17"
+  }
+}

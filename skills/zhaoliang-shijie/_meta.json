@@ -1,0 +1,24 @@
+{
+  "name": "zhaoliang-shijie",
+  "display_name": "照亮世界的马克思：张一兵对话集",
+  "version": "1.0.0",
+  "description": "基于张一兵与齐泽克、哈维、奈格里、斯蒂格勒、雅索普、郑文吉、姜信俊七位西方马克思主义学者的对话实录构建的理论分析与创作参考知识库。覆盖意识形态批判、空间理论、帝国-诸众理论、技术哲学、劳动价值论当代争论等核心模块。",
+  "author": "张一兵",
+  "source": "《照亮世界的马克思：张一兵与齐泽克、哈维、奈格里等学者的对话》（上海人民出版社, 2018）",
+  "type": "knowledge-base",
+  "domain": "philosophy",
+  "keywords": ["马克思主义", "西方马克思主义", "齐泽克", "哈维", "奈格里", "斯蒂格勒", "意识形态批判", "空间理论", "帝国", "技术哲学", "劳动价值论"],
+  "kb_stats": {
+    "total_entries": 26,
+    "deep_docs": 5,
+    "last_updated": "2026-06-17"
+  },
+  "parent_project": "leftism",
+  "usage_instructions": "加载知识库后可按对话者或主题维度调用知识条目。深度分析文档提供跨条目的综合论述。",
+  "file_index": {
+    "overview": "overview.json",
+    "knowledge_base": "knowledge-base.json",
+    "deep_analyses": "deep-analysis/",
+    "skill": "skill/SKILL.md"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "battle-maiden-psychoanalysis",
+  "display_name": "战斗美少女的精神分析",
+  "author": "斋藤环",
+  "translator": "Homura",
+  "version": "2.0.0",
+  "description": "基于斋藤环《战斗美少女的精神分析》的结构化知识库。覆盖御宅精神病理、战斗美少女谱系、亨利·达格、菲勒斯少女等核心概念。",
+  "type": "knowledge-base",
+  "domain": "cultural_theory",
+  "dependencies": {"close-reading-protocol": ">=1.0.0"},
+  "tags": ["cultural_theory", "psychoanalysis", "japanese_culture", "otaku_studies", "gender_studies"],
+  "kb_stats": {"total_entries": 35, "chapter_coverage": "7章", "deep_docs": 5, "last_updated": "2026-06-17"}
+}

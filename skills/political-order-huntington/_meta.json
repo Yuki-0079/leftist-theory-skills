@@ -1,0 +1,25 @@
+{
+  "name": "political-order-huntington",
+  "display_name": "变化社会中的政治秩序",
+  "author": "塞缪尔·P·亨廷顿",
+  "translator": "王冠华、刘为等",
+  "version": "1.0.0",
+  "description": "「左翼理论星图」组件4/8+。亨廷顿政治发展理论——现代性带来稳定，现代化过程带来不稳定。",
+  "type": "knowledge-base",
+  "domain": "political_theory",
+  "project": "leftist-theory-star-map",
+  "project_component": "political-order-huntington",
+  "tags": [
+    "leftist_theory",
+    "political_theory",
+    "modernization",
+    "political_order",
+    "institution"
+  ],
+  "kb_stats": {
+    "total_entries": 30,
+    "chapter_coverage": "7章+序言",
+    "deep_docs": 3,
+    "last_updated": "2026-06-16"
+  }
+}

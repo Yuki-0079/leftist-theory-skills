@@ -1,0 +1,50 @@
+{
+  "name": "das-kapital-band-2",
+  "display_name": "资本论第二卷 · 资本的流通过程",
+  "author": "卡尔·马克思",
+  "translator": "中共中央马克思恩格斯列宁斯大林著作编译局",
+  "edition": "人民出版社（纪念版），基于恩格斯1885年编辑版本",
+  "version": "1.0.0",
+  "description": "「左翼理论星图」组件2/8+。基于马克思《资本论》第二卷的知识库，覆盖资本循环（三种形式、流通费用）、资本周转（固定/流动资本、周转速度、年剩余价值率）和社会总资本再生产（两大部类、简单再生产I(v+m)=IIc、扩大再生产）。用于政治经济分析、文化批判和社会诊断。",
+  "type": "knowledge-base",
+  "domain": "political_economy",
+  "project": "leftist-theory-star-map",
+  "project_component": "vol2-of-capital",
+  "framework_coords": {
+    "domain": "political_economy",
+    "method": "dialectical_materialism",
+    "granularity": "circuit -> turnover -> reproduction",
+    "rigidity": "systematic",
+    "generality": "medium",
+    "primary_method": "抽象力：在纯粹形态上分析资本循环和再生产"
+  },
+  "dependencies": {
+    "close-reading-protocol": ">=1.0.0",
+    "das-kapital-knowledge-base": ">=1.0.0"
+  },
+  "tags": [
+    "leftist_theory",
+    "political_economy",
+    "marxism",
+    "capital_circulation",
+    "reproduction",
+    "economic_crisis",
+    "cultural_critique",
+    "social_diagnosis"
+  ],
+  "kb_stats": {
+    "total_entries": 59,
+    "chapter_coverage": "序言+21章+附录（全卷）",
+    "deep_docs": 5,
+    "last_updated": "2026-06-16"
+  },
+  "integration": {
+    "parent_package": "marxist-political-economy",
+    "volume": 2,
+    "total_volumes": 3,
+    "related_volumes": [
+      {"volume": 1, "name": "das-kapital-knowledge-base", "entries": 61},
+      {"volume": 3, "name": "待创建", "entries": 0}
+    ]
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "name": "das-kapital-band-3",
+  "display_name": "资本论第三卷 · 资本主义生产的总过程",
+  "author": "卡尔·马克思",
+  "editor": "弗里德里希·恩格斯",
+  "translator": "中共中央马克思恩格斯列宁斯大林著作编译局",
+  "edition": "人民出版社（纪念版），恩格斯1894年编辑版本",
+  "version": "1.0.0",
+  "description": "「左翼理论星图」组件3/8+。基于马克思《资本论》第三卷的知识库，覆盖平均利润和生产价格、利润率下降规律、商人资本、生息资本与信用、地租理论、阶级分析。",
+  "type": "knowledge-base",
+  "domain": "political_economy",
+  "project": "leftist-theory-star-map",
+  "project_component": "vol3-of-capital",
+  "framework_coords": {
+    "domain": "political_economy",
+    "method": "dialectical_materialism（从抽象到具体——引入竞争、平均化、信用、地租等具体形式）",
+    "granularity": "利润→平均利润→利息→地租→收入",
+    "rigidity": "systematic",
+    "generality": "medium-high"
+  },
+  "dependencies": {
+    "close-reading-protocol": ">=1.0.0",
+    "das-kapital-knowledge-base": ">=1.0.0",
+    "das-kapital-band-2": ">=1.0.0"
+  },
+  "tags": [
+    "leftist_theory",
+    "political_economy",
+    "marxism",
+    "average_profit",
+    "production_price",
+    "interest",
+    "credit",
+    "rent",
+    "class_analysis",
+    "cultural_critique",
+    "social_diagnosis"
+  ],
+  "kb_stats": {
+    "total_entries": 48,
+    "chapter_coverage": "7篇52章（全卷）",
+    "deep_docs": 5,
+    "last_updated": "2026-06-16"
+  },
+  "integration": {
+    "parent_package": "marxist-political-economy",
+    "volume": 3,
+    "total_volumes": 3,
+    "related_volumes": [
+      {
+        "volume": 1,
+        "name": "das-kapital-knowledge-base",
+        "entries": 61
+      },
+      {
+        "volume": 2,
+        "name": "das-kapital-band-2",
+        "entries": 59
+      }
+    ]
+  }
+}

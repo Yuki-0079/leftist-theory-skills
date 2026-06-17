@@ -1,0 +1,24 @@
+{
+  "name": "capitalist-realism",
+  "display_name": "资本主义现实主义",
+  "author": "马克·费舍（Mark Fisher）",
+  "version": "1.0.0",
+  "description": "「左翼理论星图」组件5/8+。费舍对当代资本主义文化逻辑的诊断。",
+  "type": "knowledge-base",
+  "domain": "cultural_theory",
+  "project": "leftist-theory-star-map",
+  "project_component": "capitalist-realism",
+  "tags": [
+    "leftist_theory",
+    "cultural_theory",
+    "ideology_critique",
+    "neoliberalism",
+    "postmodernism"
+  ],
+  "kb_stats": {
+    "total_entries": 12,
+    "chapter_coverage": "9章+后记",
+    "deep_docs": 3,
+    "last_updated": "2026-06-16"
+  }
+}
