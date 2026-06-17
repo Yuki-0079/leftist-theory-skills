@@ -8,7 +8,7 @@
 ## 自动安装（推荐）
 
 ```powershell
-git clone https://github.com/YOUR_USERNAME/leftist-theory-skills.git
+git clone https://github.com/Yuki-0079/leftist-theory-skills.git
 cd leftist-theory-skills
 powershell -ExecutionPolicy Bypass -File install.ps1
 ```
