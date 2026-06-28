@@ -264,6 +264,17 @@ platform_version: ">=1.0"
 > - derrida-spectres (马克思的幽灵, 20条)
 > - zhaoliang-shijie (照亮世界的马克思, 26条)
 
+## 知识库扩展（书籍拆解）
+
+当现有知识库不足以覆盖分析需求时，可使用 `book-deconstruction` skill 将新的理论书籍拆解为结构化知识库，扩展星图覆盖范围。
+
+**工作流程**：
+1. 提供理论书籍的文本文件（EPUB/TXT/Markdown）
+2. 加载 `book-deconstruction` skill，执行四阶段拆解（总览提取 → 逐章提取 → 深度分析 → 技能组装）
+3. 产出的知识库 skill 安装到 `~/.workbuddy/skills/`，可立即被本星图调用
+
+**已产出的知识库**：本星图的全部 16+ 个组件均通过此流程构建。详见 [book-deconstruction](https://github.com/Yuki-0079/book-deconstruction)。
+
 ## 边缘情况处理
 
 | 情况 | 处理 |
@@ -273,3 +284,4 @@ platform_version: ">=1.0"
 | 框架间观点冲突 | 进入辨析模式，引用 debate-guide.md |
 | 用户不熟悉理论背景 | 从最通俗的框架开始（费舍/斜目而视）再逐步深入 |
 | 需要查询未注册组件 | 使用 query_all.ps1 -Query 跨库搜索，无需skill加载 |
+| 现有KB覆盖不足 | 使用 `book-deconstruction` skill 拆解新书，扩展星图覆盖范围 |
