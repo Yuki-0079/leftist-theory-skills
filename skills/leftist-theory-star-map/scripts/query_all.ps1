@@ -5,13 +5,13 @@ param(
     [switch]$Help
 )
 
-$skillsDir = "$env:USERPROFILE\.config\opencode\skills"
+$skillsDir = Join-Path $PSScriptRoot "..\.."
 
 # Core leftist components by layer
 $layers = @{
     "经济基础" = @("das-kapital-knowledge-base","das-kapital-band-2","das-kapital-band-3","deutsche-ideologie")
     "政治制度" = @("political-order-huntington","pashukanis-legal-theory")
-    "文化意识形态" = @("western-marxism","capitalist-realism","patriarchy-capitalism","derrida-spectres","zhaoliang-shijie","zizek-sublime-object","zizek-looking-awry","zizek-enjoy-symptom")
+    "文化意识形态" = @("western-marxism","capitalist-realism","patriarchy-capitalism","derrida-spectres","zhaoliang-shijie","zizek-sublime-object","zizek-looking-awry","zizek-enjoy-symptom","ghosts-of-my-life","weird-and-eerie")
     "日本文化批判" = @("animalized-postmodern","battle-maiden-psychoanalysis")
     "韩炳哲" = @("han-burnout-society","han-agony-of-eros","han-disappearance-of-other")
 }
